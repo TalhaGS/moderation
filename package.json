@@ -1,0 +1,50 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "Xeon Sunucu Hizmetleri",
+  "main": "Xeon.js",
+  "scripts": {
+    "watch": "nodemon Xeon.js",
+    "start": "node Xeon.js"
+  },
+  "dependencies": {
+    "canvacord": "^5.0.7",
+    "canvas": "^2.7.0",
+    "canvas-constructor": "^4.1.0",
+    "canvas-node": "^0.3.23",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "dabi-images": "^2.7.5",
+    "dctr-antispam.js": "^0.1.1",
+    "discord-logs": "^1.7.7",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "funny-words": "^0.1.2",
+    "hastebin-gen": "^2.0.5",
+    "humanize-duration": "^3.25.1",
+    "lowdb": "^1.0.0",
+    "mathjs": "^7.5.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "node-superfetch": "^0.1.11",
+    "nodme": "^13.2.1",
+    "nsfwjs": "^2.2.0",
+    "quick.db": "^7.1.3",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "x": "^0.1.2",
+    "ytdl-core": "^4.5.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Lord Creative",
+    "Lord Creative#0001"
+  ],
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
